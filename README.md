@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keli
 - 👀 I’m interested in Urban remote sensing and Urban analytics
-- 🌱 I’m currently learning PhD at TUM
+- 🌱 I’m currently a PhD Student at TUM
 - 📫 How to reach me: keli.wang@tum.de
 
 <!---
